@@ -1,0 +1,17 @@
+/public/storage
+/storage/*.key
+.env
+.phpunit.result.cache
+# Package static assets
+public/vendor
+# Third party packages
+/vendor
+# Package language assets
+resources/lang/vendor
+# CS fixer cache
+.php-cs-fixer.cache
+# macOS finder
+.DS_Store
+# IDE Helper generated files
+_ide_helper.php
+.phpstorm.meta.php
